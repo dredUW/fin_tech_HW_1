@@ -5,12 +5,11 @@ FinTech Case Study
 **Company Name:**  
 Albert Investments  
 **Date of incorporation:**  
-Albert Investments is an SEC registered investment advisory firm effective 12/3/2018  
+Albert Investments is an SEC registered investment advisory firm with an effective registration date of 12/3/2018.  
 **Founders:**  
-Albert Corp which owns Albert Investments was founded by Yinon Ravid and Andrzej Baraniak Yinon Ravid is the CEO of Albert Investments.  
+Albert Corp which owns Albert Investments was founded by Yinon Ravid and Andrzej Baraniak. Yinon Ravid is the CEO of Albert Investments.  
 **How did the idea for the company come about?:**  
-After many a family get-together in which he was asked finance questions,  
-Yinon founded Albert on the idea of having a smart friend you could ask any money question.  
+After many a family get-together in which he was asked finance questions, Yinon founded Albert on the idea of having a smart friend you could ask any money question.  
 In the first few years of the company's existance Albert relied on Betterment for investment advice. However, with the launch  
 of Albert Investments now the company maintains the relationship with their customer versus referring the customer to Betterment.  
 **How is the company been funded? How much funding have they received?**  
@@ -83,10 +82,7 @@ When comparing Albert Investment's numbers to Betterment's numbers it's clear Al
 As of this writing, Albert Investments only offers taxable brokerage accounts and does not offer retirement accounts like individual retirement accounts (IRAs).  
 **Why do you think that offering this product or service would benefit the company?**
 Albert Investments tends to target younger investers. In terms of the hierarchy of accounts that a younger should open, taxable brokerage accounts generally should opened after retirement accounts.  
-Albert Investments would improve its AUM and product offering by including IRAs as a type of account that could be opened. The retirement prospect for many Americans is bleak and Albert could help  
-its customers improve their prospect for retirement by offering IRAs. Additionally, when people change jobs many don't want to leave their 401k with their previous employer. By offering IRAs, Albert  
-could help its customers by allowing them transfer their retirement funds to Albert by using a tax free rollover. This could be good for Albert's customers because their retirement funds would be  
-managed by professional and good for Albert because it would increase AUM.  
+Albert Investments would improve its AUM and product offering by including IRAs as a type of account that could be opened. The retirement prospect for many Americans is bleak and Albert could help its customers improve their prospect for retirement by offering IRAs. Additionally, when people change jobs many don't want to leave their 401k with their previous employer. By offering IRAs, Albert could help its customers by allowing them transfer their retirement funds to Albert by using a tax free rollover. This could be good for Albert's customers because their retirement funds would be managed by professional and good for Albert because it would increase AUM.  
 **What technologies would this additional product or service utilize?**  
 For the most part an IRA account should leverage many of the existing technologies that Albert Investments already uses. However, there are additional tax reporting responsibilities when offering IRAs and  
 Albert would need to track things like the amount of contributions, distributions, rollovers, traditional IRA to Roth IRA conversions, and recharacterizations. As such, Albert would need to implement  
