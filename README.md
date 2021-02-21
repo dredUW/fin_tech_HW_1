@@ -1,7 +1,7 @@
 # fin_tech_HW_1
 FinTech Case Study
 ---
-#Overview and Origin  
+## Overview and Origin  
 **Company Name:**  
 Albert Investments  
 **Date of incorporation:**  
@@ -17,7 +17,7 @@ of Albert Investments now the company maintains the relationship with their cust
 On January 26, 2021 the company closed a Series C round in which $100M was raised. This brings the company's total  
 funding to $172.9M. Prior to the Series C, Albert had Series A and Series B rounds as well as three Seed rounds  
 and one Pre Seed round. This indicates that a most if not all of the company's funding has been from investors.  
-Business Activities:  
+### Business Activities:  
 **What specific problem is the company trying to solve?**  
 Historicially over the long term savings accounts have not outperformed inflation. This means that a savings account will not  
 help one build wealth. As a matter of fact, leaving money in a savings account over the long term will actually reduce one's  
@@ -51,7 +51,7 @@ Payments processing is handled by MasterCard.
 JavaScript libraries and functions are handled by jQuery, Froogaloop, Facebook for Websites, Facebook SDK.  
 Web hosting is provided by AWS EC2.  
 SSL certificates are handled by Sectigo SSL, Sectigo Domain SSL, and SSL by Default.  
-Landscape:  
+#### Landscape:  
 **What domain of the financial industry is the company in?**  
 Albert Investments is in the wealth management domain, specifically robo-advisory.  
 **What have been the major trends and innovations of this domain over the last 5-10 years?**  
@@ -65,7 +65,7 @@ One only need to look at Schwab's Intelligent portfolios or Fidelity Go as examp
 As previously mentioned many of the traditional financial services firms have assimilated the robo-advice domain. Traditional firms like Schwab, Fidelity, Vanguard, and  
 J.P. Morgan all have some form of a robo-advisor. There are also the independent robo-advisors like Betterment, one of the first robo-advisors, Wealthfront, Personal Capital, and  
 Ellevest.  
-Results:  
+##### Results:  
 **What has been the business impact of this company so far?**  
 From my perspective the purpose of Albert Investments is to round out the financial services offerings of Albert Corp and retain customers who are investing ready rather than  
 refer them to Betterment. From that perspective Albert Investments is making progress. However, when evaluating Albert Investments as a stand alone robo-advisor there is room  
@@ -78,7 +78,7 @@ per discretionary account.
 Betterment's, the generally accepted leader in the robo-advisory space, numbers are $18B in AUM, 660,195 discretionary accounts which corresponds to over $27,000 per discretionary  
 account.  
 When comparing Albert Investment's numbers to Betterment's numbers it's clear Albert has a long way to go before it will compete with the top players in the space.  
-Recommendations:  
+###### Recommendations:  
 **If you were to advise the company, what products or services would you suggest they offer?**  
 As of this writing, Albert Investments only offers taxable brokerage accounts and does not offer retirement accounts like individual retirement accounts (IRAs).  
 **Why do you think that offering this product or service would benefit the company?**
@@ -94,16 +94,13 @@ some sort of tax management software that would allow it to report specific tax 
 manage the other aspects of IRA accounts.  
 **Why are these technologies appropriate for your solution?**  
 The main difference between taxable brokerage accounts and IRAs are the tax guidelines that govern IRAs. Implementing an IRA tax management software would allow Albert Investments to offer IRAs and thus  
-increase its product offering and grow AUM.
-  
-        
-
-**Resources:**
+increase its product offering and grow AUM.  
+###### Resources
 [Albert website](https://albert.com/)  
 [Interview with CEO of Albert](https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=4d3593f42132)  
 [Albert Investments Form ADV and Part 2 Brochures](https://adviserinfo.sec.gov/firm/summary/298006)  
-https://techcrunch.com/2016/11/23/albert-raises-2-5-million-for-its-finance-app-that-helps-you-save-money/ (some background on Albert)  
-https://www.crunchbase.com/organization/albert-3/company_financials (Albert's funding)  
-https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp (inflations impact on savings)  
-https://builtwith.com/detailed/albert.com (Albert's tech stack)  
-https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/ (trends in robo-advice)
+[Some background on Albert](https://techcrunch.com/2016/11/23/albert-raises-2-5-million-for-its-finance-app-that-helps-you-save-money/)  
+[Info on Albert's funding](https://www.crunchbase.com/organization/albert-3/company_financials)  
+[Inflations impact on savings](https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp)  
+[Albert's tech stack](https://builtwith.com/detailed/albert.com)  
+[Trends in robo-advice](https://www.backendbenchmarking.com/blog/2020/06/innovation-trends-of-robo-advice/)
