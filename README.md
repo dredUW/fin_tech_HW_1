@@ -10,12 +10,9 @@ Albert Investments is an SEC registered investment advisory firm with an effecti
 Albert Corp which owns Albert Investments was founded by Yinon Ravid and Andrzej Baraniak. Yinon Ravid is the CEO of Albert Investments.  
 **How did the idea for the company come about?:**  
 After many a family get-together in which he was asked finance questions, Yinon founded Albert on the idea of having a smart friend you could ask any money question.  
-In the first few years of the company's existance Albert relied on Betterment for investment advice. However, with the launch  
-of Albert Investments now the company maintains the relationship with their customer versus referring the customer to Betterment.  
+In the first few years of the company's existance Albert relied on Betterment for investment advice. However, with the launch of Albert Investments now the company maintains the relationship with their customer versus referring the customer to Betterment.  
 **How is the company been funded? How much funding have they received?**  
-On January 26, 2021 the company closed a Series C round in which $100M was raised. This brings the company's total  
-funding to $172.9M. Prior to the Series C, Albert had Series A and Series B rounds as well as three Seed rounds  
-and one Pre Seed round. This indicates that a most if not all of the company's funding has been from investors.  
+On January 26, 2021 the company closed a Series C round in which $100M was raised. This brings the company's total funding to $172.9M. Prior to the Series C, Albert had Series A and Series B rounds as well as three Seed rounds and one Pre Seed round. This indicates that a most if not all of the company's funding has been from investors.  
 ### Business Activities:  
 **What specific problem is the company trying to solve?**  
 Historicially over the long term savings accounts have not outperformed inflation. This means that a savings account will not  
