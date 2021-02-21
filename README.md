@@ -1,7 +1,7 @@
 # fin_tech_HW_1
 FinTech Case Study
 ---
-Overview and Origin  
+##Overview and Origin  
 **Company Name:**  
 Albert Investments  
 **Date of incorporation:**  
@@ -100,8 +100,8 @@ increase its product offering and grow AUM.
 
 **Resources:**
 [Albert website](https://albert.com/)  
-https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=4d3593f42132 (Interview with CEO of Albert)  
-https://adviserinfo.sec.gov/firm/summary/298006 (Form ADV and Part 2 Brochures)  
+[Interview with CEO of Albert](https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=4d3593f42132)  
+[Albert Investments Form ADV and Part 2 Brochures](https://adviserinfo.sec.gov/firm/summary/298006)  
 https://techcrunch.com/2016/11/23/albert-raises-2-5-million-for-its-finance-app-that-helps-you-save-money/ (some background on Albert)  
 https://www.crunchbase.com/organization/albert-3/company_financials (Albert's funding)  
 https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp (inflations impact on savings)  
