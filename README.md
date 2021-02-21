@@ -1,7 +1,7 @@
 # fin_tech_HW_1
-#FinTech Case Study
+##FinTech Case Study
 ---
-##Overview and Origin  
+###Overview and Origin  
 **Company Name:**  
 Albert Investments  
 **Date of incorporation:**  
