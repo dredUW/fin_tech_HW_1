@@ -15,32 +15,15 @@ In the first few years of the company's existance Albert relied on Betterment fo
 On January 26, 2021 the company closed a Series C round in which $100M was raised. This brings the company's total funding to $172.9M. Prior to the Series C, Albert had Series A and Series B rounds as well as three Seed rounds and one Pre Seed round. This indicates that a most if not all of the company's funding has been from investors.  
 ### Business Activities:  
 **What specific problem is the company trying to solve?**  
-Historicially over the long term savings accounts have not outperformed inflation. This means that a savings account will not  
-help one build wealth. As a matter of fact, leaving money in a savings account over the long term will actually reduce one's  
-purchasing power. For the majority of us the only true way to grow our wealth is to invest in the stock and bond markets.  
-However, investing in the markets can be quite scary. This is where Albert Investments portfolio by Genius offers a solution.  
-Portfolio by Genius is Albert Investmetns version of a robo-advisor in with the customer answers a few questions about their  
-goals, risk tolerance and time horizon and then receive a recommended portfolio of ETFs. Albert Investments also has an offering  
-for those customers who a self-managed account. However, this is not your typical self-managed account where you pick your own  
-stocks or ETFs. The Albert Investments self-managed account allows the customer to pick holdings from a curated list of themes.  
-Whether the customer chooses portfolio by Genius or a self-managed account the problem that Albert Investments solves is how to  
-help Americans grow their wealth.  
+Historicially over the long term savings accounts have not outperformed inflation. This means that a savings account will not help one build wealth. As a matter of fact, leaving money in a savings account over the long term will actually reduce one's purchasing power. For the majority of us the only true way to grow our wealth is to invest in the stock and bond markets. However, investing in the markets can be quite scary. This is where Albert Investments portfolio by Genius offers a solution. Portfolio by Genius is Albert Investmetns version of a robo-advisor in with the customer answers a few questions about their goals, risk tolerance and time horizon and then receive a recommended portfolio of ETFs. Albert Investments also has an offering for those customers who a self-managed account. However, this is not your typical self-managed account where you pick your own stocks or ETFs. The Albert Investments self-managed account allows the customer to pick holdings from a curated list of themes. Whether the customer chooses portfolio by Genius or a self-managed account the problem that Albert Investments solves is how to help Americans grow their wealth.  
 **Who is the company's intended customer? Is there any information about the market size of this customer?**  
-Albert Corp the parent company of Albert Investments targets younger, mobile users. So it stands to reason that Albert  
-Investments target customer doesn't stray to far from that group. However, given that investment accounts are generally targeted  
-toward more affluent individuals it seems reasonable to assume that Albert Investments is moving a little up market when compared  
-to Albert Corp's original target customer.  
+Albert Corp the parent company of Albert Investments targets younger, mobile users. So it stands to reason that Albert Investments target customer doesn't stray to far from that group. However, given that investment accounts are generally targeted toward more affluent individuals it seems reasonable to assume that Albert Investments is moving a little up market when compared to Albert Corp's original target customer.  
 **What solution does this company offer that their competitors do not or cannot offer?**  
-When compared to Betterment, it is clear that Albert Investments is a newish player in the robo-advisory space. Where Betterment  
-has multiple account types, like individual accounts, joint accounts, trust accounts and IRA accounts; it appears that Albert currently only offers  
-individual and joint accounts. This indicates that Albert Investments is currently only focusing on taxable accounts for their customers.  
-However, Albert Investments does seem to have a unique take on servicing its customer with access to Albert Geniuses. These are professionals  
-that can help answer questions and Portfolio by Genius is Albert Investments' robo-advisory offering.  
+When compared to Betterment, it is clear that Albert Investments is a newish player in the robo-advisory space. Where Betterment has multiple account types, like individual accounts, joint accounts, trust accounts and IRA accounts; it appears that Albert currently only offers individual and joint accounts. This indicates that Albert Investments is currently only focusing on taxable accounts for their customers. However, Albert Investments does seem to have a unique take on servicing its customer with access to Albert Geniuses. These are professionals that can help answer questions and Portfolio by Genius is Albert Investments' robo-advisory offering.  
 **Which technologies are the currently using and how are they implementing them?**  
-For analytics and tracking Albert uses CrazyEgg, Branch, New Relic, Google Analytics, Facebook Domain Insights, Facebook Pixel, Facebook Conversion  
-Tracking and Facebook Signal.  
+For analytics and tracking Albert uses CrazyEgg, Branch, New Relic, Google Analytics, Facebook Domain Insights, Facebook Pixel, Facebook Conversion Tracking and Facebook Signal.  
 For Widgets Alberts uses Google Font API, Lever, Dropbox Business, WebEx Panel, and Font Awesome.  
-Python and Heroku Vegur Proxy are used in for Frameworks.  
+Python and Heroku Vegur Proxy are used for Frameworks.  
 Viewport Meta, iPhone/Mobile Compatible, and Mobile Non Scalealbe Content are all used for Mobile.  
 Content delivery is handled by Vimeo CDN, Google Static Content, and AWS CloudFront.  
 Payments processing is handled by MasterCard.  
