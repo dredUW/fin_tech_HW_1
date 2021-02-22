@@ -3,7 +3,8 @@ FinTech Case Study
 ---
 ## Overview and Origin  
 **Company Name:**  
-Albert Investments  ![Albert](https://cdn.albert.com/static/img/splash/splash-2019-09/brand/albert-logo.a643503429e1.svg)
+Albert Investments  
+![Albert](https://cdn.albert.com/static/img/splash/splash-2019-09/brand/albert-logo.a643503429e1.svg)  
 **Date of incorporation:**  
 Albert Investments is an SEC registered investment advisory firm with an effective registration date of 12/3/2018.  
 **Founders:**  
