@@ -57,7 +57,7 @@ The main difference between taxable brokerage accounts and IRAs are the tax guid
 [Albert website](https://albert.com/)  
 [Interview with CEO of Albert](https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=4d3593f42132)  
 [Albert Investments' Form ADV and Part 2 Brochures](https://adviserinfo.sec.gov/firm/summary/298006)  
-[Betterment's Form ADV and Part 2 Brochures](https://adviserinfo.sec.gov/firm/summary/149117)
+[Betterment's Form ADV and Part 2 Brochures](https://adviserinfo.sec.gov/firm/summary/149117)  
 [Some background on Albert](https://techcrunch.com/2016/11/23/albert-raises-2-5-million-for-its-finance-app-that-helps-you-save-money/)  
 [Info on Albert's funding](https://www.crunchbase.com/organization/albert-3/company_financials)  
 [Inflations impact on savings](https://www.investopedia.com/articles/investing/090715/how-inflation-affects-your-cash-savings.asp)  
