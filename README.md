@@ -3,7 +3,7 @@ FinTech Case Study
 ---
 ## Overview and Origin  
 **Company Name:**  
-Albert Investments  
+Albert Investments  ![Albert](https://cdn.thecollegeinvestor.com/wp-content/uploads/2020/05/Albert-logo-2.png)
 **Date of incorporation:**  
 Albert Investments is an SEC registered investment advisory firm with an effective registration date of 12/3/2018.  
 **Founders:**  
@@ -34,43 +34,25 @@ SSL certificates are handled by Sectigo SSL, Sectigo Domain SSL, and SSL by Defa
 **What domain of the financial industry is the company in?**  
 Albert Investments is in the wealth management domain, specifically robo-advisory.  
 **What have been the major trends and innovations of this domain over the last 5-10 years?**  
-The last 5-10 years has seen the rise and acceptance of the robo-advisory domain. Robo-advice disrupted the wealth  
-management insdustry by offering lower cost diversified portfolios and lower minimums which dramatically increased the accessibilty of  
-wealth management services. The proliferation and acceptance of low cost exchange traded funds (ETFs) along with the automation of some portfolio managment processes  
-allowed robo-advisors to construct and manage diversified risk based portfolios at a much lower cost than traditional advisor managed portfolios. The robo-advisors  
-passed this cost savings to the end customer. Today robo-advice has been widely accepted by both the investing public and traditional financial services firms.  
-One only need to look at Schwab's Intelligent portfolios or Fidelity Go as examples of traditional financial services firm's acceptance and assimilation of robo-advice.  
+The last 5-10 years has seen the rise and acceptance of the robo-advisory domain. Robo-advice disrupted the wealth management insdustry by offering lower cost diversified portfolios and lower minimums which dramatically increased the accessibilty of wealth management services. The proliferation and acceptance of low cost exchange traded funds (ETFs) along with the automation of some portfolio managment processes allowed robo-advisors to construct and manage diversified risk based portfolios at a much lower cost than traditional advisor managed portfolios. The robo-advisors 
+passed this cost savings to the end customer. Today robo-advice has been widely accepted by both the investing public and traditional financial services firms. One only need to look at Schwab's Intelligent portfolios or Fidelity Go as examples of traditional financial services firm's acceptance and assimilation of robo-advice.  
 **What are the other major companies in this domain?**  
-As previously mentioned many of the traditional financial services firms have assimilated the robo-advice domain. Traditional firms like Schwab, Fidelity, Vanguard, and  
-J.P. Morgan all have some form of a robo-advisor. There are also the independent robo-advisors like Betterment, one of the first robo-advisors, Wealthfront, Personal Capital, and  
-Ellevest.  
+As previously mentioned many of the traditional financial services firms have assimilated the robo-advice domain. Traditional firms like Schwab, Fidelity, Vanguard, and J.P. Morgan all have some form of a robo-advisor. There are also the independent robo-advisors like Betterment, one of the first robo-advisors, Wealthfront, Personal Capital, and Ellevest.  
 ##### Results:  
 **What has been the business impact of this company so far?**  
-From my perspective the purpose of Albert Investments is to round out the financial services offerings of Albert Corp and retain customers who are investing ready rather than  
-refer them to Betterment. From that perspective Albert Investments is making progress. However, when evaluating Albert Investments as a stand alone robo-advisor there is room  
-for improvement.  
+From my perspective the purpose of Albert Investments is to round out the financial services offerings of Albert Corp and retain customers who are investing ready rather than refer them to Betterment. From that perspective Albert Investments is making progress. However, when evaluating Albert Investments as a stand alone robo-advisor there is room for improvement.  
 **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**  
-Consistent with the rest of the wealth management space, the core metric of robo-advisors is discretionary assets under management (AUM). This represents the total dollar amount  
-the firm manages on a discretionary basis. Additional metrics that might be of interest are number of discretionary accounts and AUM per discretionary account.  
-As of its most recent filing with the SEC, Albert Investments has discretionary AUM of roughly $1.5M, 15,634 discretionary accounts which corresponds to roughly $96  
-per discretionary account.  
-Betterment's, the generally accepted leader in the robo-advisory space, numbers are $18B in AUM, 660,195 discretionary accounts which corresponds to over $27,000 per discretionary  
-account.  
-When comparing Albert Investment's numbers to Betterment's numbers it's clear Albert has a long way to go before it will compete with the top players in the space.  
+Consistent with the rest of the wealth management space, the core metric of robo-advisors is discretionary assets under management (AUM). This represents the total dollar amount the firm manages on a discretionary basis. Additional metrics that might be of interest are number of discretionary accounts and AUM per discretionary account. As of its most recent filing with the SEC, Albert Investments has discretionary AUM of roughly $1.5M, 15,634 discretionary accounts which corresponds to roughly $96 per discretionary account.  
+Betterment's, the generally accepted leader in the robo-advisory space, numbers are $18B in AUM, 660,195 discretionary accounts which corresponds to over $27,000 per discretionary account. When comparing Albert Investment's numbers to Betterment's numbers it's clear Albert has a long way to go before it will compete with the top players in the space. 
 ###### Recommendations:  
 **If you were to advise the company, what products or services would you suggest they offer?**  
 As of this writing, Albert Investments only offers taxable brokerage accounts and does not offer retirement accounts like individual retirement accounts (IRAs).  
 **Why do you think that offering this product or service would benefit the company?**
-Albert Investments tends to target younger investers. In terms of the hierarchy of accounts that a younger should open, taxable brokerage accounts generally should opened after retirement accounts.  
-Albert Investments would improve its AUM and product offering by including IRAs as a type of account that could be opened. The retirement prospect for many Americans is bleak and Albert could help its customers improve their prospect for retirement by offering IRAs. Additionally, when people change jobs many don't want to leave their 401k with their previous employer. By offering IRAs, Albert could help its customers by allowing them transfer their retirement funds to Albert by using a tax free rollover. This could be good for Albert's customers because their retirement funds would be managed by professional and good for Albert because it would increase AUM.  
+Albert Investments tends to target younger investers. In terms of the hierarchy of accounts that a younger adult should open, taxable brokerage accounts generally should opened after retirement accounts. One of the main reasons for this is that investments in a retirement account grow on a tax deferred basis which over the long can have a material impact on the rate of return an investor earns. Albert Investments would improve its AUM and product offering by including IRAs as an type of account that could be opened. The retirement prospect for many Americans is bleak and Albert could help its customers improve their prospect for retirement by offering IRAs. Additionally, when people change jobs many don't want to leave their 401k with their previous employer. By offering IRAs, Albert could help its customers by allowing them transfer their retirement funds to Albert by using a tax free rollover. This could be good for Albert's customers because their retirement funds would be managed by professional and good for Albert because it would increase AUM, number of accounts, AUM per account.  
 **What technologies would this additional product or service utilize?**  
-For the most part an IRA account should leverage many of the existing technologies that Albert Investments already uses. However, there are additional tax reporting responsibilities when offering IRAs and  
-Albert would need to track things like the amount of contributions, distributions, rollovers, traditional IRA to Roth IRA conversions, and recharacterizations. As such, Albert would need to implement  
-some sort of tax management software that would allow it to report specific tax related retirement account actions to the IRS. Other than that, Albert should be able to leverage existing technologies to  
-manage the other aspects of IRA accounts.  
+For the most part an IRA account should leverage many of the existing technologies that Albert Investments already uses. However, there are additional tax reporting responsibilities when offering IRAs and Albert would need to track things like the amount of contributions, distributions, rollovers, traditional IRA to Roth IRA conversions, and recharacterizations. As such, Albert would need to implement some sort of tax management software that would allow it to report specific tax related retirement account actions to the IRS. Other than that, Albert should be able to leverage existing technologies to manage the other aspects of IRA accounts.  
 **Why are these technologies appropriate for your solution?**  
-The main difference between taxable brokerage accounts and IRAs are the tax guidelines that govern IRAs. Implementing an IRA tax management software would allow Albert Investments to offer IRAs and thus  
-increase its product offering and grow AUM.  
+The main difference between taxable brokerage accounts and IRAs are the tax guidelines that govern IRAs. Implementing an IRA tax management software would allow Albert Investments to offer IRAs and thus increase its product offering and grow AUM.  
 ###### Resources
 [Albert website](https://albert.com/)  
 [Interview with CEO of Albert](https://www.forbes.com/sites/maryjuetten/2020/09/01/forbes-qa-with-yinon-ravid-ceo-and-founder-of-albert/?sh=4d3593f42132)  
